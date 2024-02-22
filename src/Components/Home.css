@@ -33,7 +33,9 @@
     .Container{
         display: block;
         /* flex-direction: row; */
-        background-color: rgb(69, 69, 203);
+        background-color: rgb(39, 39, 82);
+        padding: 20px;
+        height: 300px;
     }
     .box2{
         display: none;
