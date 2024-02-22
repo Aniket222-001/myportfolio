@@ -47,5 +47,6 @@
     .Footer-box3{
         margin-top: 15px;
         display: flex;
+        padding-left: 10px;
     }
 }
