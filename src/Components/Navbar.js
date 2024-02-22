@@ -4,9 +4,6 @@ import { Link } from 'react-scroll'
 import './Navbar.css'
 
 const Navbar = () => {
-    const [click, setClick] = useState(false)
-
-    const closeMenu = () => setClick(false)
   return (
     <div className='Navbar'>
       <div className='Nav1'>
@@ -14,27 +11,28 @@ const Navbar = () => {
       </div>
       
       <div className='Nav2'>
-        <Link to='aboutme' className='nav3' activeClass="active"  onClick={closeMenu}
+        <Link to='aboutme' className='nav3' activeClass="active"  
          spy={true} 
          smooth={true} 
          offset={-15} 
          duration={500}> About me</Link>
-        <Link to='Skills' className='nav3' onClick={closeMenu}
+        <Link to='Skills' className='nav3' 
         activeClass="active" 
         spy={true} 
         smooth={true} 
         offset={-50} 
         duration={500}>Skills</Link>
-        <Link to='Project' className='nav3'activeClass="active" onClick={closeMenu}
+        <Link to='Project' className='nav3'activeClass="active" 
          spy={true} 
          smooth={true} 
-         offset={50} 
+         offset={-50} 
          duration={500}>Project</Link>
-        <Link to='contact' className='nav3' activeClass="active"  onClick={closeMenu}
+        <Link to='Contact' className='nav3' activeClass="active"  
          spy={true} 
          smooth={true} 
          offset={-15} 
          duration={500}>Contact</Link>
+        
       </div>
     </div>
   )

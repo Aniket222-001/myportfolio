@@ -24,6 +24,7 @@
 .abt-img1{
     width: 400px;
     height: auto;
+    margin-left: 10%;
 }
 .abt-box3:hover{
     background-color: rgb(64, 64, 141);
