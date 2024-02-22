@@ -29,6 +29,8 @@
     .Navbar{
         display: block;
         background-color: rgb(39, 39, 82);
+        margin: 0;
+        padding-top: 7px;
     }
     .Nav2{
         display: flex;
