@@ -24,8 +24,8 @@
 }
 
 .prj-img{
-    width: 300px;
-    height: 200px;
+    width: 100%;
+    height: auto;
 }
 
 .prj-info{
@@ -39,7 +39,7 @@
     width: 200px;
    }
    .prj-img{
-    width: 170px;
+    width: 100%;
     height: auto;
    }
 }
@@ -57,8 +57,8 @@
         margin-bottom: 10px;
     }
     .prj-img{
-
-        width: 250px;
-        height: 200px;
+        
+        width: 100%;
+        height: auto;
     }
 }
