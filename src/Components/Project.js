@@ -13,8 +13,8 @@ const Project = () => {
             <p>This website is build using react Node js Mongo db and Apis</p>
           </div>
           <div>
-            <button><a className='prj-btn1' href="">Demo</a></button>
-            <button><a className='prj-btn1' href="">Source</a></button>
+            <button><a className='prj-btn1' href="https://movie-mania-orpin.vercel.app/">Demo</a></button>
+            <button><a className='prj-btn1' href="https://github.com/Aniket222-001/Movie-mania">Source</a></button>
           </div>
       </div>
       <div className='prj-box1'>
