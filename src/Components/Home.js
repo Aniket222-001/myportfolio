@@ -7,7 +7,7 @@ const Home = () => {
     <div className='Container' id='home'>
       <div className='box1'>
         <h1>
-        <Typewriter words={[`Hi , I'm Aniket`]} delaySpeed={5000}>
+        <Typewriter words={[`Hi , I'm Aniket`]} delaySpeed={3000}>
         </Typewriter>   
         </h1>
         <p className='txt2'><span><Typewriter words={[`I m full stack devloper with lots of experience in React and Node js.`
