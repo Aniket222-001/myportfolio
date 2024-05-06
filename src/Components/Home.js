@@ -11,7 +11,7 @@ const Home = () => {
         </Typewriter>   
         </h1>
         <p className='txt2'><span><Typewriter words={[`I m full stack devloper with lots of experience in React and Node js.`
-        ,'React out to me to  learn more and hire me']}
+        ,'Please feel free to contact me']}
         delaySpeed={1000}>
         </Typewriter>
         </span>        
