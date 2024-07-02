@@ -22,12 +22,12 @@ const Project = () => {
             <img className='prj-img' src={require('../Images/maxresdefault.jpg')} alt="" />
           </div>
           <div className='prj-info'>
-            <h3>Movie Mania</h3>
+            <h3>Food Recipes</h3>
             <p>This website is build using react Node js Mongo db and Apis</p>
           </div>
           <div>
-            <button><a className='prj-btn1' href="https://movie-mania-orpin.vercel.app/">Demo</a></button>
-            <button><a className='prj-btn1' href="">Source</a></button>
+            <button><a className='prj-btn1' href="https://food-recipe-tau.vercel.app/">Demo</a></button>
+            <button><a className='prj-btn1' href="https://github.com/Aniket222-001/food-recipe">Source</a></button>
           </div>
       </div>
       <div className='prj-box1'>
@@ -35,12 +35,12 @@ const Project = () => {
             <img className='prj-img' src={require('../Images/full-stack-development.png')} />
           </div>
           <div className='prj-info'>
-            <h3>Movie Mania</h3>
+            <h3>My Portfolio</h3>
             <p>This website is build using react Node js Mongo db and Apis</p>
           </div>
           <div>
-            <button><a className='prj-btn1' href="https://movie-mania-orpin.vercel.app/">Demo</a></button>
-            <button><a className='prj-btn1' href="">Source</a></button>
+            <button><a className='prj-btn1' href="https://myportfolio-pied-rho.vercel.app/">Demo</a></button>
+            <button><a className='prj-btn1' href="https://github.com/Aniket222-001/myportfolio">Source</a></button>
           </div>
       </div>
     </div>
