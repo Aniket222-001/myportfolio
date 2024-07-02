@@ -13,8 +13,8 @@ const Project = () => {
             <p>This website is build using react Node js Mongo db and Apis</p>
           </div>
           <div>
-            <button><a className='prj-btn1' href="https://movie-mania-orpin.vercel.app/">Demo</a></button>
-            <button><a className='prj-btn1' href="https://github.com/Aniket222-001/Movie-mania">Source</a></button>
+            <button><a className='prj-btn1' target="_blank" href="https://movie-mania-orpin.vercel.app/">Demo</a></button>
+            <button><a className='prj-btn1' target="_blank" href="https://github.com/Aniket222-001/Movie-mania">Source</a></button>
           </div>
       </div>
       <div className='prj-box1'>
@@ -26,8 +26,8 @@ const Project = () => {
             <p>This website is build using react Node js Mongo db and Apis</p>
           </div>
           <div>
-            <button><a className='prj-btn1' href="https://food-recipe-tau.vercel.app/">Demo</a></button>
-            <button><a className='prj-btn1' href="https://github.com/Aniket222-001/food-recipe">Source</a></button>
+            <button><a className='prj-btn1' target="_blank" href="https://food-recipe-tau.vercel.app/">Demo</a></button>
+            <button><a className='prj-btn1' target="_blank" href="https://github.com/Aniket222-001/food-recipe">Source</a></button>
           </div>
       </div>
       <div className='prj-box1'>
@@ -40,7 +40,7 @@ const Project = () => {
           </div>
           <div>
             <button><a className='prj-btn1' href="https://myportfolio-pied-rho.vercel.app/">Demo</a></button>
-            <button><a className='prj-btn1' href="https://github.com/Aniket222-001/myportfolio">Source</a></button>
+            <button><a className='prj-btn1' target="_blank" href="https://github.com/Aniket222-001/myportfolio">Source</a></button>
           </div>
       </div>
     </div>
